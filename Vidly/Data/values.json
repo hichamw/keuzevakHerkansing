@@ -1,0 +1,107 @@
+[
+  {
+    "SubmissionId": 1,
+    "Date": "2014-07-15 17:53:02.127",
+    "Latitude": 52.385,
+    "Longitude": 4.636,
+    "Address": "AH Kruisstraat 10, Haarlem "
+  },
+  {
+    "SubmissionId": 2,
+    "Date": "2014-07-15 15:46:19.627",
+    "Latitude": 52.382,
+    "Longitude": 4.857,
+    "Address": "AH: Bos en Lommerweg 117, Amsterdam,"
+  },
+  {
+    "SubmissionId": 3,
+    "Date": "2014-07-15 12:35:49.877",
+    "Latitude": 52.310,
+    "Longitude": 4.847,
+    "Address": "AH Amsterdamseweg 136, Amstelveen "
+  },
+  {
+    "SubmissionId": 4,
+    "Date": "2014-07-15 11:54:08.017",
+    "Latitude": 52.202,
+    "Longitude": 4.633,
+    "Address": "PLUS Noordplein 25??, Roelofarendsveen "
+  },
+  {
+    "SubmissionId": 5,
+    "Date": "2014-07-14 16:46:32.377",
+    "Latitude": 51.644,
+    "Longitude": 5.954,
+    "Address": "AH Steenstraat 136, Boxmeer "
+  },
+  {
+    "SubmissionId": 6,
+    "Date": "2014-07-14 07:02:46.953",
+    "Latitude": 52.385,
+    "Longitude": 5.224,
+    "Address": "JUMBO; Geinplein 34, 1316 HC Almere, Nederland"
+  },
+  {
+    "SubmissionId": 7,
+    "Date": "2014-07-12 14:26:52.187",
+    "Latitude": 52.378,
+    "Longitude": 6.683,
+    "Address": "C1000; Binnenhof 33, 7608 Almelo, Nederland"
+  },
+  {
+    "SubmissionId": 8,
+    "Date": "2014-07-12 13:22:31.423",
+    "Latitude": 51.856,
+    "Longitude": 4.537,
+    "Address": "AH Middenbaan 97, Barendrecht "
+  },
+  {
+    "SubmissionId": 9,
+    "Date": "2014-07-11 19:05:11.220",
+    "Latitude": 51.849,
+    "Longitude": 4.544,
+    "Address": "AH Middenbaan 97, Barendrecht "
+  },
+  {
+    "SubmissionId": 10,
+    "Date": "2014-07-11 16:02:10.750",
+    "Latitude": 51.531,
+    "Longitude": 4.453,
+    "Address": "AH Laan van Brabant 9, Roosendaal "
+  },
+  {
+    "SubmissionId": 11,
+    "Date": "2014-07-11 13:14:56.127",
+    "Latitude": 51.663,
+    "Longitude": 4.533,
+    "Address": "C1000; Doorsteek 9, Klundert"
+  },
+  {
+    "SubmissionId": 12,
+    "Date": "2014-07-11 10:38:14.483",
+    "Latitude": 51.812,
+    "Longitude": 4.667,
+    "Address": "AH Achterom 42, Dordrecht "
+  },
+  {
+    "SubmissionId": 13,
+    "Date": "2014-07-10 14:52:30.750",
+    "Latitude": 52.096,
+    "Longitude": 5.108,
+    "Address": "AH Amsterdamsestraatweg 56, Utrecht "
+  },
+  {
+    "SubmissionId": 14,
+    "Date": "2014-07-10 14:24:52.860",
+    "Latitude": 52.147,
+    "Longitude": 4.477,
+    "Address": "AH Bevrijdingsplein 50, Leiden "
+  },
+  {
+    "SubmissionId": 15,
+    "Date": "2014-07-10 12:28:56.233",
+    "Latitude": 52.342,
+    "Longitude": 4.962,
+    "Address": "AH Claas van Maarssenplein 23, Diemen "
+  }
+]
